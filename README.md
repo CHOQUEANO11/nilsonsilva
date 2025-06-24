@@ -18,7 +18,7 @@ Sou **desenvolvedor fullstack** apaixonado por criar aplicações modernas e res
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=choqueano11&show_icons=true&theme=dracula)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nilsonsilva&layout=compact&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=choqueano11&layout=compact&theme=dracula)
 
 ---
 
